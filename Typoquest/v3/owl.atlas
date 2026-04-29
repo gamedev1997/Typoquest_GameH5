@@ -1,0 +1,73 @@
+owl.png
+size:269,858
+filter:Linear,Linear
+pma:true
+images/boy/owl/arm2
+bounds:229,590,37,42
+images/boy/owl/arm22
+bounds:223,539,39,49
+images/boy/owl/ball
+bounds:197,452,45,45
+images/boy/owl/ball glow
+bounds:2,145,172,170
+offsets:14,16,201,201
+images/boy/owl/beak
+bounds:246,634,18,28
+images/boy/owl/belt
+bounds:197,591,78,30
+rotate:90
+images/boy/owl/blink 1
+bounds:236,413,37,27
+rotate:90
+images/boy/owl/blink 2
+bounds:197,392,37,27
+images/boy/owl/blink 3
+bounds:236,374,37,27
+rotate:90
+images/boy/owl/blink 4
+bounds:236,336,36,27
+offsets:1,0,37,27
+rotate:90
+images/boy/owl/body
+bounds:146,20,71,77
+rotate:90
+images/boy/owl/cuff2
+bounds:247,664,33,20
+rotate:90
+images/boy/owl/eye
+bounds:197,363,37,27
+images/boy/owl/eyebrow_
+bounds:197,776,80,66
+rotate:90
+images/boy/owl/face
+bounds:176,93,96,78
+rotate:90
+images/boy/owl/hand1
+bounds:197,537,24,52
+images/boy/owl/hand2
+bounds:197,421,29,37
+rotate:90
+images/boy/owl/hand3
+bounds:223,499,38,39
+rotate:90
+images/boy/owl/headgear
+bounds:247,699,75,20
+rotate:90
+images/boy/owl/hood
+bounds:2,2,141,142
+rotate:90
+images/boy/owl/hood back
+bounds:176,191,124,91
+rotate:90
+images/boy/owl/leg
+bounds:197,334,27,30
+rotate:90
+images/boy/owl/neckpiece
+bounds:229,650,15,19
+images/boy/owl/skirt
+bounds:197,671,103,48
+rotate:90
+images/boy/shadow
+bounds:2,317,539,193
+offsets:3,1,544,195
+rotate:90

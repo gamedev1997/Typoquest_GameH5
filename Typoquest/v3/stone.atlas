@@ -1,0 +1,51 @@
+stone.png
+size:1133,204
+filter:Linear,Linear
+pma:true
+arm 1
+bounds:767,91,87,111
+arm 2
+bounds:948,100,58,102
+chest
+bounds:543,54,148,125
+rotate:90
+eye 1
+bounds:1092,188,39,14
+eye 2
+bounds:1092,172,39,14
+eye 3
+bounds:1092,156,39,14
+eye 4
+bounds:1092,140,39,14
+eye 5
+bounds:614,2,39,8
+offsets:0,3,39,14
+face
+bounds:808,5,95,84
+finger 1
+bounds:676,5,71,67
+rotate:90
+finger 2
+bounds:745,7,61,69
+foot
+bounds:614,12,60,40
+hand 1
+bounds:670,78,95,124
+hand 2
+bounds:905,7,91,84
+hip
+bounds:1008,102,100,82
+rotate:90
+leg
+bounds:856,93,90,109
+shadow
+bounds:2,9,539,193
+offsets:3,1,544,195
+spike
+bounds:1062,17,58,83
+thigh
+bounds:998,14,62,84
+thumb 1
+bounds:575,8,37,44
+thumb 2
+bounds:543,3,30,49

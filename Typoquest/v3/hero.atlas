@@ -1,0 +1,120 @@
+hero.png
+size:1582,782
+filter:Linear,Linear
+pma:true
+From selection-1
+bounds:2,2,14,25
+rotate:90
+arm2
+bounds:970,8,30,60
+arms
+bounds:938,6,30,62
+bag
+bounds:1531,382,31,31
+offsets:0,0,34,31
+belt
+bounds:667,12,67,32
+offsets:0,2,67,34
+blink 1
+bounds:783,5,63,29
+rotate:90
+blink 2
+bounds:814,5,63,29
+rotate:90
+blink 3
+bounds:845,5,63,29
+rotate:90
+blink 4
+bounds:876,5,63,29
+rotate:90
+cloth 1
+bounds:736,3,65,45
+offsets:0,0,65,47
+rotate:90
+cloth 2
+bounds:285,4,33,65
+rotate:90
+cloth 3
+bounds:1002,11,57,71
+rotate:90
+cloth 4
+bounds:1074,70,26,57
+rotate:90
+clove
+bounds:384,2,94,42
+effects/01
+bounds:197,255,156,156
+offsets:226,147,600,450
+effects/02
+bounds:1074,98,276,268
+offsets:166,90,600,450
+rotate:90
+effects/03
+bounds:1250,466,329,314
+offsets:138,67,600,450
+effects/04
+bounds:726,70,346,348
+offsets:130,52,600,450
+effects/05
+bounds:365,46,365,359
+offsets:121,49,600,450
+rotate:90
+effects/06
+bounds:197,413,367,361
+offsets:119,48,600,450
+rotate:90
+effects/07
+bounds:560,420,360,356
+offsets:122,51,600,450
+rotate:90
+effects/08
+bounds:918,443,330,337
+offsets:146,51,600,450
+eyes
+bounds:907,5,63,29
+rotate:90
+face
+bounds:1344,105,112,92
+face 2
+bounds:1133,4,112,92
+face 3
+bounds:1247,4,112,92
+globe
+bounds:1531,415,49,49
+offsets:3,3,54,55
+globe rotator
+bounds:535,5,39,38
+rotate:90
+hair
+bounds:1458,65,132,112
+offsets:0,0,133,124
+rotate:90
+hand1
+bounds:635,7,30,37
+hand2
+bounds:1250,376,88,279
+rotate:90
+hat 1
+bounds:222,39,214,141
+rotate:90
+hat 2
+bounds:1361,199,205,175
+offsets:2,0,207,180
+leg 1
+bounds:480,4,40,53
+rotate:90
+leg 2
+bounds:575,7,37,58
+rotate:90
+neck
+bounds:352,4,33,30
+rotate:90
+shadow
+bounds:2,241,539,193
+offsets:3,1,544,195
+rotate:90
+shoe
+bounds:222,2,61,35
+wand glow
+bounds:2,18,218,221
+offsets:16,16,250,255

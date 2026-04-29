@@ -1,0 +1,117 @@
+girl.png
+size:614,522
+filter:Linear,Linear
+pma:true
+bag
+bounds:248,38,42,40
+rotate:90
+bag handle
+bounds:334,39,41,25
+offsets:1,0,42,26
+rotate:90
+belt
+bounds:524,36,51,24
+cape back
+bounds:337,214,128,111
+cape collar
+bounds:366,104,90,48
+cape left
+bounds:467,211,57,114
+cape right
+bounds:2,8,90,118
+rotate:90
+dress top
+bounds:445,52,48,44
+eye 1
+bounds:584,131,64,27
+offsets:4,4,72,35
+rotate:90
+eye 2
+bounds:584,65,64,27
+offsets:4,4,72,35
+rotate:90
+eye 3
+bounds:416,38,64,27
+offsets:4,4,72,35
+rotate:90
+eye 4
+bounds:495,32,64,27
+offsets:4,4,72,35
+rotate:90
+eye 5
+bounds:492,3,64,27
+offsets:4,4,72,35
+eyebrow
+bounds:36,203,21,12
+face
+bounds:122,2,96,82
+rotate:90
+hair 1
+bounds:458,98,46,71
+rotate:90
+hair 2
+bounds:531,62,47,50
+offsets:0,1,47,51
+rotate:90
+hair 3
+bounds:290,40,42,40
+hair 4
+bounds:445,7,43,45
+rotate:90
+hair 5
+bounds:583,19,29,44
+offsets:0,0,30,44
+hair 6
+bounds:290,5,27,33
+hair 7
+bounds:366,55,47,48
+rotate:90
+hair front
+bounds:366,154,93,58
+hair side
+bounds:539,111,43,84
+hand 1
+bounds:206,19,40,79
+hand 2
+bounds:461,146,63,76
+rotate:90
+hand 3
+bounds:248,10,26,40
+rotate:90
+hat bottom
+bounds:2,100,245,95
+hat top
+bounds:2,217,200,108
+leg
+bounds:2,200,15,32
+rotate:90
+lip
+bounds:73,199,16,8
+rotate:90
+lip 2
+bounds:83,204,11,8
+offsets:7,8,25,25
+rotate:90
+lip 3
+bounds:59,197,18,12
+offsets:4,7,25,25
+rotate:90
+neck
+bounds:319,10,27,24
+rotate:90
+shadow
+bounds:2,327,539,193
+offsets:3,1,544,195
+show
+bounds:361,9,44,38
+rotate:90
+wand
+bounds:543,197,69,323
+offsets:1,0,70,324
+wand glow
+bounds:204,211,114,131
+offsets:0,6,123,137
+rotate:90
+wand rotator
+bounds:249,82,115,127
+offsets:0,1,117,129

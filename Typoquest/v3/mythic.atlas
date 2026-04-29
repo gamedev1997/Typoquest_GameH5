@@ -1,0 +1,92 @@
+mythic.png
+size:665,526
+filter:Linear,Linear
+pma:true
+L back foot
+bounds:420,2,58,32
+L back leg
+bounds:488,109,53,80
+L back thigh
+bounds:175,88,76,109
+offsets:0,0,76,110
+L front foot
+bounds:592,58,67,29
+L front leg
+bounds:543,101,54,102
+offsets:1,0,55,102
+L front thigh
+bounds:421,36,59,75
+R back foot
+bounds:2,2,51,22
+R back leg
+bounds:352,2,38,66
+offsets:2,0,42,66
+rotate:90
+R back thigh
+bounds:175,26,60,86
+rotate:90
+R front foot
+bounds:527,36,51,25
+R front leg
+bounds:263,2,38,87
+rotate:90
+R front thigh
+bounds:599,153,50,64
+rotate:90
+body
+bounds:2,199,223,130
+collar
+bounds:405,191,125,138
+ear
+bounds:632,19,37,29
+rotate:90
+effects/1
+bounds:263,42,78,60
+offsets:2,6,82,71
+effects/2
+bounds:599,89,62,62
+offsets:6,5,73,73
+effects/3
+bounds:343,42,76,55
+offsets:5,5,86,65
+effects/4
+bounds:400,113,86,76
+offsets:1,1,88,78
+effects/5
+bounds:253,104,100,94
+offsets:1,0,102,95
+effects/glow
+bounds:2,26,171,171
+offsets:15,15,201,200
+eye 1
+bounds:580,32,50,24
+eye 2
+bounds:633,268,50,24
+rotate:90
+eye 3
+bounds:633,216,50,24
+rotate:90
+eye 4
+bounds:495,10,50,24
+eyebrow 1
+bounds:55,4,10,20
+eyebrow 2
+bounds:480,2,13,32
+head
+bounds:532,205,99,113
+horn
+bounds:355,99,43,99
+lower jaw
+bounds:527,63,63,36
+mouth
+bounds:482,45,62,43
+rotate:90
+shadow
+bounds:2,331,539,193
+offsets:3,1,544,195
+tail
+bounds:227,200,176,129
+offsets:3,1,179,130
+wing
+bounds:543,320,95,204
+offsets:0,2,95,206

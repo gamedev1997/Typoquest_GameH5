@@ -1,0 +1,47 @@
+Spider.png
+size:200,867
+filter:Linear,Linear
+pma:true
+images/boy/shadow
+bounds:2,326,539,193
+offsets:3,1,544,195
+rotate:90
+images/boy/spider/arm 2
+bounds:158,104,35,40
+rotate:90
+images/boy/spider/arm1
+bounds:92,2,32,41
+images/boy/spider/blink 0
+bounds:164,141,43,32
+rotate:90
+images/boy/spider/blink 1
+bounds:158,59,43,32
+rotate:90
+images/boy/spider/blink 2
+bounds:158,14,43,32
+rotate:90
+images/boy/spider/blink 3
+bounds:2,12,43,32
+images/boy/spider/claw 12
+bounds:126,57,30,39
+images/boy/spider/claw 21
+bounds:2,46,61,52
+images/boy/spider/claw 22
+bounds:164,186,55,34
+rotate:90
+images/boy/spider/claw11
+bounds:65,45,51,59
+rotate:90
+images/boy/spider/eyes
+bounds:47,11,43,32
+images/boy/spider/face
+bounds:83,98,66,73
+rotate:90
+images/boy/spider/head gear
+bounds:2,100,79,64
+images/boy/spider/leg1
+bounds:126,15,29,40
+images/boy/spider/leg2
+bounds:164,243,28,81
+images/boy/spider/shell
+bounds:2,166,160,158

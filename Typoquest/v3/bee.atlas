@@ -1,0 +1,51 @@
+bee.png
+size:741,200
+filter:Linear,Linear
+pma:true
+antenna
+bounds:636,133,17,63
+rotate:90
+body
+bounds:636,152,46,55
+rotate:90
+collar
+bounds:693,155,46,43
+eye 1
+bounds:669,88,43,25
+rotate:90
+eye 2
+bounds:696,106,43,25
+eye 3
+bounds:675,33,43,25
+eye 4
+bounds:703,61,43,25
+rotate:90
+eye 5
+bounds:675,6,43,25
+face
+bounds:611,62,50,56
+rotate:90
+hand 1
+bounds:701,143,26,10
+hand 2
+bounds:636,117,26,14
+hand 3
+bounds:701,133,8,21
+rotate:90
+middle
+bounds:669,60,26,32
+rotate:90
+shadow
+bounds:2,5,539,193
+offsets:3,1,544,195
+sting
+bounds:543,2,50,130
+rotate:90
+wind 2
+bounds:611,114,84,23
+offsets:0,1,84,24
+rotate:90
+wing 1
+bounds:543,54,144,66
+offsets:0,4,144,70
+rotate:90
